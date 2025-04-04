@@ -1,6 +1,4 @@
-Sure! Here's a **clean and professional README.md** tailored to your FYP project on multi-agent fuzzy neural stock prediction. You can customize the badges and contributor sections later:
 
----
 
 ```markdown
 # Multi-Agent Fuzzy Neural Network for Stock Prediction
