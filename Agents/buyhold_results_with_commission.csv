@@ -1,7 +1,3 @@
-,Buy Price (after commission),Sell Price (after commission),Shares Held,Final Value,ROI (%)
-U11.SI,17.03,34.43,587.0,20215.86,102.16
-C38U.SI,1.42,1.89,7040.0,13306.76,33.07
-Q0F.SI,1.71,1.82,5835.0,10635.54,6.36
-S68.SI,6.09,11.92,1642.0,19581.59,95.82
-S63.SI,2.6,6.06,3844.0,23284.65,132.85
-AJBU.SI,0.69,1.97,14564.0,28706.29,187.06
+version https://git-lfs.github.com/spec/v1
+oid sha256:400e871207e752072f9224989d2b4747ad7bd546a155432fc2a55ad366f47db4
+size 332
