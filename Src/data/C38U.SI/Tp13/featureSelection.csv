@@ -1,0 +1,44 @@
+key,value
+top_features,"['x_Tm12_VolChg', 'x_Tm4_PRoc1', 'x_Tm1_PriceChg', 'x_Tm3_PriceChg', 'x_Tm1_PRoc1', 'x_Tm5_VolChg', 'x_Tm6_PRoc1', 'x_Tm13_PRoc1', 'x_Tm11_PriceChg', 'x_Tm7_PRoc1', 'x_Tm10_PriceChg', 'x_Tm9_PriceChg', 'x_Tm11_VolChg', 'x_Tm6_PriceChg', 'x_Tm6_VolChg', 'x_Tm3_PRoc1']"
+mces_df,"               cols  ...  weighted_scores
+34    x_Tm12_VolChg  ...         0.016584
+11      x_Tm4_PRoc1  ...         0.013865
+0    x_Tm1_PriceChg  ...         0.013255
+6    x_Tm3_PriceChg  ...         0.005543
+2       x_Tm1_PRoc1  ...         0.005467
+13     x_Tm5_VolChg  ...         0.001890
+17      x_Tm6_PRoc1  ...         0.000749
+38     x_Tm13_PRoc1  ...         0.000617
+30  x_Tm11_PriceChg  ...         0.000469
+20      x_Tm7_PRoc1  ...         0.000364
+27  x_Tm10_PriceChg  ...         0.000232
+24   x_Tm9_PriceChg  ...         0.000225
+31    x_Tm11_VolChg  ...         0.000169
+15   x_Tm6_PriceChg  ...         0.000086
+16     x_Tm6_VolChg  ...         0.000083
+8       x_Tm3_PRoc1  ...         0.000023
+33  x_Tm12_PriceChg  ...         0.000000
+25     x_Tm9_VolChg  ...         0.000000
+5       x_Tm2_PRoc1  ...         0.000000
+10     x_Tm4_VolChg  ...         0.000000
+35     x_Tm12_PRoc1  ...        -0.000059
+3    x_Tm2_PriceChg  ...        -0.000167
+37    x_Tm13_VolChg  ...        -0.000285
+1      x_Tm1_VolChg  ...        -0.000348
+9    x_Tm4_PriceChg  ...        -0.000374
+12   x_Tm5_PriceChg  ...        -0.000438
+23      x_Tm8_PRoc1  ...        -0.002490
+29     x_Tm10_PRoc1  ...        -0.003315
+32     x_Tm11_PRoc1  ...        -0.005280
+19     x_Tm7_VolChg  ...        -0.006495
+14      x_Tm5_PRoc1  ...        -0.006840
+26      x_Tm9_PRoc1  ...        -0.007384
+22     x_Tm8_VolChg  ...        -0.008128
+28    x_Tm10_VolChg  ...        -0.011483
+7      x_Tm3_VolChg  ...        -0.014800
+21   x_Tm8_PriceChg  ...        -0.018842
+4      x_Tm2_VolChg  ...        -0.024965
+36  x_Tm13_PriceChg  ...        -0.030139
+18   x_Tm7_PriceChg  ...        -0.111082
+
+[39 rows x 5 columns]"

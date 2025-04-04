@@ -1,0 +1,44 @@
+key,value
+top_features,"['x_Tm1_PriceChg', 'x_Tm4_PriceChg', 'x_Tm7_VolChg', 'x_Tm6_VolChg', 'x_Tm2_PriceChg', 'x_Tm9_PRoc1', 'x_Tm11_PriceChg', 'x_Tm7_PRoc1', 'x_Tm10_PRoc1', 'x_Tm11_VolChg', 'x_Tm10_PriceChg', 'x_Tm13_PriceChg', 'x_Tm12_VolChg', 'x_Tm13_PRoc1', 'x_Tm4_VolChg', 'x_Tm1_VolChg', 'x_Tm11_PRoc1', 'x_Tm7_PriceChg', 'x_Tm9_VolChg', 'x_Tm8_PRoc1', 'x_Tm5_PriceChg', 'x_Tm8_VolChg', 'x_Tm9_PriceChg', 'x_Tm6_PriceChg']"
+mces_df,"               cols  ...  weighted_scores
+0    x_Tm1_PriceChg  ...         0.002487
+9    x_Tm4_PriceChg  ...         0.001024
+19     x_Tm7_VolChg  ...         0.000694
+16     x_Tm6_VolChg  ...         0.000656
+3    x_Tm2_PriceChg  ...         0.000437
+26      x_Tm9_PRoc1  ...         0.000248
+30  x_Tm11_PriceChg  ...         0.000207
+20      x_Tm7_PRoc1  ...         0.000199
+29     x_Tm10_PRoc1  ...         0.000148
+31    x_Tm11_VolChg  ...         0.000114
+27  x_Tm10_PriceChg  ...         0.000106
+36  x_Tm13_PriceChg  ...         0.000077
+34    x_Tm12_VolChg  ...         0.000065
+38     x_Tm13_PRoc1  ...         0.000056
+10     x_Tm4_VolChg  ...         0.000036
+1      x_Tm1_VolChg  ...         0.000035
+32     x_Tm11_PRoc1  ...         0.000031
+18   x_Tm7_PriceChg  ...         0.000029
+25     x_Tm9_VolChg  ...         0.000021
+23      x_Tm8_PRoc1  ...         0.000017
+12   x_Tm5_PriceChg  ...         0.000013
+22     x_Tm8_VolChg  ...         0.000010
+24   x_Tm9_PriceChg  ...         0.000004
+15   x_Tm6_PriceChg  ...         0.000003
+13     x_Tm5_VolChg  ...         0.000000
+37    x_Tm13_VolChg  ...         0.000000
+6    x_Tm3_PriceChg  ...         0.000000
+21   x_Tm8_PriceChg  ...        -0.000006
+11      x_Tm4_PRoc1  ...        -0.000020
+14      x_Tm5_PRoc1  ...        -0.000040
+4      x_Tm2_VolChg  ...        -0.000046
+35     x_Tm12_PRoc1  ...        -0.000053
+5       x_Tm2_PRoc1  ...        -0.000063
+17      x_Tm6_PRoc1  ...        -0.000075
+8       x_Tm3_PRoc1  ...        -0.000079
+33  x_Tm12_PriceChg  ...        -0.000093
+7      x_Tm3_VolChg  ...        -0.000104
+28    x_Tm10_VolChg  ...        -0.000170
+2       x_Tm1_PRoc1  ...        -0.000301
+
+[39 rows x 5 columns]"
