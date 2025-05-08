@@ -1,7 +1,7 @@
 
 
 ```markdown
-# Multi-Agent Fuzzy Neural Network for Stock Prediction
+# Interpretable Fuzzy Deep Transformer Neural Network and Multi-Agent Reinforcement Learning Portfolio Optimisation
 
 This project explores a novel and interpretable approach for **stock price prediction** using a combination of:
 - **Fuzzy Logic**,  
