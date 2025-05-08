@@ -68,7 +68,7 @@ This project proposes an interpretable fuzzy-deep neural model named **IFDTNN (I
    ```
 
 
-## 📊 Results & Benchmarks
+##  Results & Benchmarks
 
 | Model              | RMSE ↓ | R² ↑ |
 |-------------------|--------|------|
@@ -77,23 +77,28 @@ This project proposes an interpretable fuzzy-deep neural model named **IFDTNN (I
 | Transformer Only   | 0.058  | 0.75 |
 | MLP                | 0.071  | 0.68 |
 
-> Initial Investment: SGD $10,000 | Period: 2500 days | With Commission Fees
-
+## Initial Investment: SGD $10,000 | Period: 2500 days | With Commission Fees | seven agents 
+A2C: Actor Critic Agent 
+DES: Deep Evolutionary Strategy Agent 
+RCQL: Recurrent Curiosity Q-Learning Agent 
+PPO: Proximal Policy Gradient 
+DDRQL: Double Duel Recurrent Q-Learning Agent 
+DDPG: Deep Deterministic Policy Gradient Agent 
+ES: Evolution Strategy 
 ---
 
 ## 🌱 Future Work
 
-- ✅ Real-time trading bot integration  
-- ✅ Multi-market and multi-asset expansion  
-- ✅ Integration of sentiment analysis from news & social media  
-- ✅ GAN-based market simulation  
-- ✅ Regulatory compliance and explainability dashboard  
-
+- Real-time trading bot integration  
+- Multi-market and multi-asset expansion  
+- Integration of sentiment analysis from news & social media  
+- GAN-based market simulation  
+- Regulatory compliance and explainability dashboard  
 ---
 
 ## 👩‍💻 Contributors
 
-- **Priya Rekah** – *Lead Developer / Researcher*
+- **Priya Rekah** 
 
 ---
 
